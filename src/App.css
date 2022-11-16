@@ -45,8 +45,8 @@ h1{
   font-weight: 400;
 }
 
-h3{
-  text-align: center;
+.top{
+  text-align: left;
 }
 
 .site-header{
