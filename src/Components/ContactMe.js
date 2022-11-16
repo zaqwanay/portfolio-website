@@ -30,14 +30,15 @@ const ContactMe = () => {
           <div>
             <label for='message' class='form-label'></label>
             <textarea
-              cols='40'
+              type='text'
+              cols='100'
               id='message'
               name='message'
               placeholder='Enter your message'>
             </textarea>
           </div>
           <div>
-            <input type='submit' id='submit-btn' />
+            <input type='submit' class='submit-btn' />
           </div>
         </fieldset>
       </form>

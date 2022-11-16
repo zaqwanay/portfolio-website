@@ -12,12 +12,12 @@ const Projects = () => {
             loop
             autoplay/>
           <Controls visible={false} />
-        <h4>Mock twitter API</h4>
+        </div>
+        <h4><a class='links' href='https://github.com/zaqwanay'>Mock twitter API</a></h4>
         <h5>Implemented RESTful API clone of twitter</h5>
         <p className='project-p'>
           Enviroment: Java, Spring Boot, PostgreSQL
         </p>
-        </div>
       </div>
       <div id='project-2'>
         <div class='projectimage'>
@@ -27,7 +27,7 @@ const Projects = () => {
             loop
             autoplay/>
           <Controls visible={false} />
-          <h4>Cities Trivia Game</h4>
+          <h4><a class='links' href='https://github.com/zaqwanay/cities_trivia_game'>Cities Trivia Game</a></h4>
           <h5>A CLI trivia game with 3 difficulty levels</h5>
           <p className='project-p'>
             Enviroment: Python, Django
@@ -42,7 +42,7 @@ const Projects = () => {
             loop
             autoplay/>
           <Controls visible={false} />
-          <h4>Employee Org Chart</h4>
+          <h4><a class='links' href='https://github.com/zaqwanay'>Employee Org Chart</a></h4>
           <h5>Work map chart to find employees and managers</h5>
           <p className='project-p'>
             Enviroment: Java
