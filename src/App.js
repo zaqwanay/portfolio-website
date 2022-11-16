@@ -1,12 +1,9 @@
-import logo from './logo.svg'
 import './App.css'
 import Footer from './Components/Footer.js'
 import AboutMe from './Components/AboutMe'
 import Header from './Components/Header'
 import ContactMe from './Components/ContactMe'
 import Projects from './Components/Projects'
-// import MediaQuery from 'react-responsive/types/Component'
-
 
 function App () {
   return (
