@@ -115,6 +115,7 @@ background: linear-gradient(45deg, rgb(93, 91, 91), black) ;
 .about-me {
   margin-top: 20px;
   display: inline-block;
+  align-items: center;
 }
 
 .about-me-container{
@@ -295,7 +296,10 @@ text-align: center;
   color: white;
 }
 
-
+h3{
+  text-align: center;
+  color: orange;
+}
 
 
 

@@ -29,6 +29,7 @@ const AboutMe = () => {
         <div class='about-me-special2'>
           <div class='about-me-special3'>
             <h2>About Me</h2>
+            <h3>Hi, my name is Alex Yesufu</h3>
             {githubProfile}
           </div>
           <div class='about-me-animation'>
