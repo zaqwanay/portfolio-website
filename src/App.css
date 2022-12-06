@@ -116,6 +116,7 @@ background: linear-gradient(45deg, rgb(93, 91, 91), black) ;
   margin-top: 20px;
   display: inline-block;
   align-items: center;
+  margin-left: 9%
 }
 
 .about-me-container{
